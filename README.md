@@ -104,6 +104,7 @@ Inserte a continuación el código de los métodos desarrollados en esta tarea, 
 comandos necesarios para que se realice el realce sintáctico en Python del mismo (no
 vale insertar una imagen o una captura de pantalla, debe hacerse en formato *markdown*).
 
+```python
 """
 Martí Fontseca
 TASCA 3: APA - CURS 2025-2026
@@ -212,6 +213,7 @@ if __name__ == "__main__":
     import doctest
     # Execució dels tests definits a la docstring de la classe
     doctest.testmod(verbose=True)
+```
 
 #### Subida del resultado al repositorio GitHub y *pull-request*
 
